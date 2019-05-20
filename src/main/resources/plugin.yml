@@ -1,0 +1,4 @@
+name: ProfileAPI
+version: ${project.version}
+main: org.dragonet.profileapi.ProfileAPI
+api-version: 1.13
